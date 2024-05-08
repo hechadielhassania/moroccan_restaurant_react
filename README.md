@@ -3,7 +3,7 @@
 This is a React web application that displays a menu for a Moroccan restaurant. Users can filter menu items by categories such as starters, main dishes, and desserts.
 
 ## Demo
-<img src="app.jpeg" width="100%">
+<img src="app.jpg" width="100%">
 
 ## Table of Contents
 
